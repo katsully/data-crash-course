@@ -11,7 +11,7 @@ This repo only contains one example but many, many more can be found [here](http
 
 
 
-![Capture]((https://github.com/katsully/data-crash-course/blob/master/Capture.png)
+![Capture](Capture.PNG?raw=true)
 
 Data can be complex, enormous, and beyond tedious to parse by hand. This is why we need tools, like Python to help us. Data can be used to determine Twitter trends, pinpoint where epidemics began, and Facebook even used their data to draw out [global migration patterns](https://www.facebook.com/notes/facebook-data-science/coordinated-migration/10151930946453859/).
 
